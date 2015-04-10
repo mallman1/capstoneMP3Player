@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+  border: 1px solid #000;
+  width: 350px;
+  margin: 100px auto;
+}
+
+#mp3_buttons {
+  font-family: Webdings;
+}
+#mp3_dir {
+  text-align: left;
+}
